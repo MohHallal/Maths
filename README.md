@@ -1,1 +1,1 @@
-# Maths
+Ce code Python utilise la bibliothèque NumPy pour calculer la matrice de transition d'une chaîne de Markov après 8 saisons. La chaîne de Markov est définie par la matrice T, représentant les probabilités de transition entre différentes positions pour une équipe au sein de la ligue de football.
